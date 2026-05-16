@@ -35,10 +35,10 @@ The application integrates multiple Android components including:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8eb6752-ebd9-4825-8256-e3a5c9fc68a7" width="220"/>
-  <img src="https://github.com/user-attachments/assets/e763b3b9-f209-4b4d-ae72-1b99947308ff" width="220"/>
-  <img src="https://github.com/user-attachments/assets/c259fc5d-992c-4050-b673-462229a329ea" width="220"/>
-  <img src="https://github.com/user-attachments/assets/5a7bab83-f1bd-473a-9016-b6d9947ce19e" width="220"/>
+  <img src="https://github.com/user-attachments/assets/f8eb6752-ebd9-4825-8256-e3a5c9fc68a7" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e763b3b9-f209-4b4d-ae72-1b99947308ff" width="200"/>
+  <img src="https://github.com/user-attachments/assets/c259fc5d-992c-4050-b673-462229a329ea" width="200"/>
+  <img src="https://github.com/user-attachments/assets/5a7bab83-f1bd-473a-9016-b6d9947ce19e" width="200"/>
 </p>
 
 # 📄 License
